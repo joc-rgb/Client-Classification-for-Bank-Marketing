@@ -1,4 +1,4 @@
-# 🏦 Client Classification
+# 🏦 Client Classification For Bank Marketing
 <img src="https://www.antworksmoney.com/assets/img/bank-deposits.jpg" /></br>
 ### Context : 
    Term deposits are a major source of income for a bank. A term deposit is a cash investment held at a financial institution. Your money is invested for an agreed rate of interest over a fixed amount of time, or term. The bank has various outreach plans to sell term deposits to their customers such as email marketing, advertisements, telephonic marketing, and digital marketing.
