@@ -28,4 +28,4 @@
 - Find prediction
 
 
-### Try it [here](https://joc-rgb.streamlit.app/)!
+### Try it [here](https://joc-rgb-client-classification-for-bank-marketing-app-9t5a9v.streamlit.app/)!
