@@ -6,7 +6,11 @@
    Telephonic marketing campaigns still remain one of the most effective way to reach out to people. However, they require huge investment as large call centers are hired to actually execute these campaigns. Hence, it is crucial to identify the customers most likely to convert beforehand so that they can be specifically targeted via call.
 
    The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. 
-   
+
+### Citation
+S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
+
+
 ### 🎯 Objective :
    We have to use this dataset to generate a classification model that can successfully predict if the client will subscribe to a term deposit.
    
@@ -29,3 +33,5 @@
 
 
 ### Try it [here](https://joc-rgb-client-classification-for-bank-marketing-app-9t5a9v.streamlit.app/)!
+
+
